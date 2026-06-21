@@ -18,12 +18,12 @@ export const SocialLinks: SocialInterface[] = [
     name: "LinkedIn",
     username: "Mory Coulibaly",
     icon: Icons.linkedin,
-    link: "https://www.linkedin.com/in/morycoulibaly",
+    link: "https://www.linkedin.com/in/fanzegue-mory-coulibaly-ab091b399",
   },
   {
     name: "Gmail",
     username: "mory.coulibaly",
     icon: Icons.gmail,
-    link: "mailto:mory.coulibaly@gmail.com",
+    link: "mailto:coulibalymory021@gmail.com",
   },
 ];

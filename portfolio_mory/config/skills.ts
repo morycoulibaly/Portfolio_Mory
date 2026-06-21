@@ -46,7 +46,7 @@ export const skillsUnsorted: skillsInterface[] = [
     name: "Vue.js",
     description:
       "Developpement d'interfaces progressives, reactives et maintenables.",
-    rating: 4,
+    rating: 5,
     icon: Icons.laptop,
   },
   {
@@ -66,7 +66,7 @@ export const skillsUnsorted: skillsInterface[] = [
     name: "Nest.js",
     description:
       "APIs backend modulaires avec TypeScript, services et controllers.",
-    rating: 3,
+    rating: 4,
     icon: Icons.nestjs,
   },
   {

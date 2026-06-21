@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "How I Got 150+ Stars on GitHub for a Next.js Portfolio Template"
 date: "2026-02-01"
 description: "The story behind minimal-next-portfolio — an open-source Next.js 16 portfolio template that grew from a personal project to 148 stars, 41 forks, and developers worldwide using it to showcase their work."
@@ -133,4 +133,4 @@ If you're building something similar — whether a template, a CLI tool, or a li
 
 ---
 
-**Try it yourself:** [github.com/namanbarkiya/minimal-next-portfolio](https://github.com/namanbarkiya/minimal-next-portfolio)
+**Try it yourself:** [github.com/namanbarkiya/minimal-next-portfolio](https://github.com/namanbarkiya/minimal-next-portfolio) -->

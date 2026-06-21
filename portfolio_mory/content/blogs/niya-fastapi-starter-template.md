@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Ship Your Backend in 10 Minutes: The Niya FastAPI Template"
 date: "2025-03-01"
 description: "A production-ready FastAPI template with Supabase auth, rate limiting, connection pooling, and clean architecture — built so you never waste another week on backend boilerplate."
@@ -174,4 +174,4 @@ Clone both, point them at the same Supabase project, and you have a full-stack S
 
 ---
 
-**Star it if it's useful:** [github.com/namanbarkiya/niya-fastapi-template](https://github.com/namanbarkiya/niya-fastapi-template)
+**Star it if it's useful:** [github.com/namanbarkiya/niya-fastapi-template](https://github.com/namanbarkiya/niya-fastapi-template) -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "3D Card with Embedded Links Using Three.js and Blender"
 date: "2023-11-01"
 description: "Ever thought your traditional business card could use a serious upgrade? Here's how I used Three.js and Blender to transform a plain business card into an interactive 3D masterpiece with embedded clickable links."
@@ -301,4 +301,4 @@ Grab the assets, customize the card with your own links and branding, and ship s
 - 🌐 **Live Demo:** [card.nbarkiya.xyz](https://card.nbarkiya.xyz)
 - 💻 **Source Code:** [github.com/namanbarkiya/3d-portfolio-card](https://github.com/namanbarkiya/3d-portfolio-card)
 - 🎨 **Figma Assets:** [Figma file](https://www.figma.com/file/HxFS1r0P6vvxzSMXpipOKk/3D-card-assets?type=design&node-id=0%3A1&mode=design&t=jhsZf7DikFaZknKb-1)
-- 📦 **Blender + Assets:** [Google Drive](https://drive.google.com/drive/folders/1PD-ARQADycua4onoDrL_TAS8PtjiBr4-?usp=sharing)
+- 📦 **Blender + Assets:** [Google Drive](https://drive.google.com/drive/folders/1PD-ARQADycua4onoDrL_TAS8PtjiBr4-?usp=sharing) -->

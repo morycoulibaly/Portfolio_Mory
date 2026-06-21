@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Building a Production-Ready AI Chatbot Platform: Lessons from Convot"
 date: "2025-02-15"
 description: "Deep-dive into the architecture decisions, ingestion pipelines, and hard-won lessons from building Convot — an embeddable AI chatbot that retrieves answers from your own knowledge base."
@@ -108,4 +108,4 @@ The one-line embed (`<script src="convot.js" data-key="..."></script>`) required
 4. **Source attribution is a product differentiator** — users trust answers that cite sources.
 5. **Start with a small, curated knowledge base** to validate retrieval quality before scaling.
 
-Building Convot was one of the most technically challenging and rewarding projects I've worked on. Happy to answer questions in the comments or on [X](https://x.com/namanbarkiya).
+Building Convot was one of the most technically challenging and rewarding projects I've worked on. Happy to answer questions in the comments or on [X](https://x.com/namanbarkiya). -->

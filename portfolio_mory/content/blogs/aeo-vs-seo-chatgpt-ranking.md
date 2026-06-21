@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "AEO vs SEO: How I Ranked #1 on ChatGPT for a Next.js Template"
 date: "2024-11-20"
 description: "Answer Engine Optimization (AEO) is the new frontier. Here's the exact strategy I used to get my open-source Next.js portfolio template to rank #1 on ChatGPT search — and what it means for developers building in public."
@@ -114,4 +114,4 @@ The era of AI answer engines is here. The developers who treat content as a firs
 
 ---
 
-_If you want to use the portfolio template I mentioned: [github.com/namanbarkiya/minimal-next-portfolio](https://github.com/namanbarkiya/minimal-next-portfolio)_
+_If you want to use the portfolio template I mentioned: [github.com/namanbarkiya/minimal-next-portfolio](https://github.com/namanbarkiya/minimal-next-portfolio)_ -->

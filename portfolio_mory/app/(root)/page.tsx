@@ -102,7 +102,7 @@ export default function IndexPage() {
             height={100}
             width={100}
             sizes="100vw"
-            className="bg-primary rounded-full mb-0 h-auto md:mb-2 w-[60%] max-w-[16rem] border-8 border-primary"
+            className="aspect-square bg-primary rounded-full mb-0 md:mb-2 w-[60%] max-w-[16rem] border-8 border-primary object-cover"
             alt="Mory Coulibaly - Developpeur Fullstack Junior a Abidjan"
             priority
           />
@@ -122,11 +122,8 @@ export default function IndexPage() {
           </AnimatedText>
           <div className="mt-4 max-w-[42rem] text-center">
             <p className="leading-normal text-muted-foreground text-sm sm:text-base">
-              Developpeur Fullstack Junior base a Abidjan, je conçois des
-              applications web modernes avec React, Vue.js, TypeScript,
-              Laravel, NestJS, Flask et MySQL. Je recherche un stage, une
-              alternance ou une premiere opportunite pour contribuer a des
-              produits concrets.
+              Créer <strong>des applications web et mobiles</strong> grâce à des outils modernes et aux meilleures pratiques pour
+                    offrir une exceptionnelle expérience utilisateur.
             </p>
           </div>
 
@@ -204,7 +201,7 @@ export default function IndexPage() {
           </Link>
         </AnimatedText>
       </AnimatedSection>
-      <AnimatedSection
+      {/* <AnimatedSection
         direction="up"
         className="container space-y-6 py-10 my-14"
         id="experience"
@@ -242,7 +239,7 @@ export default function IndexPage() {
             </Button>
           </Link>
         </AnimatedText>
-      </AnimatedSection>
+      </AnimatedSection> */}
       <AnimatedSection
         direction="up"
         className="container space-y-6 bg-muted py-10 my-14"

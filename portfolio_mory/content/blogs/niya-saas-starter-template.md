@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "I Built a Free SaaS Starter Template — Here's Everything Inside"
 date: "2025-02-20"
 description: "Niya SaaS Template is a production-ready, open-source Next.js 15 starter kit with Supabase auth, Zustand, React Query, Magic UI animations, and clean architecture. Built for developers and AI startups who want to ship fast."
@@ -165,4 +165,4 @@ npm run dev
 
 That's it. You'll have a fully working app with auth, dashboard, dark mode, and beautiful UI in under 3 minutes.
 
-**Star it if it saves you time:** [github.com/namanbarkiya/niya-saas-template](https://github.com/namanbarkiya/niya-saas-template)
+**Star it if it saves you time:** [github.com/namanbarkiya/niya-saas-template](https://github.com/namanbarkiya/niya-saas-template) -->
