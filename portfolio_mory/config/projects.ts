@@ -56,8 +56,7 @@ export const Projects: ProjectInterface[] = [
     descriptionDetails: {
       paragraphs: [
         "Réseau social Full-Stack permettant les interactions entre utilisateurs via une architecture MVC moderne.",
-        "Texte factice : fonctionnalités, objectifs et défis techniques seront décrits ici.",
-      ],
+        ],
       bullets: [
         "Authentification, profils, relations.",
         "Intégration d'API pour enrichir les interactions et le contenu.",
