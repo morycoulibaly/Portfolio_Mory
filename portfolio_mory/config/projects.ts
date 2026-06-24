@@ -94,6 +94,45 @@ export const Projects: ProjectInterface[] = [
     },
   },
   {
+    id: "post-it",
+    companyName: "Post-it",
+    type: "Personal",
+    category: ["Full Stack", "Web Dev"],
+    shortDescription:
+      "Application web de gestion de notes interactives permettant la création, modification et suppression de notes en temps réel.",
+    // websiteLink: "https://post-it.example.com",
+    // githubLink: "https://github.com/your-username/post-it",
+    techStack: ["Next.js", "Typescript", "Tailwind CSS", "Firebase"],
+    startDate: new Date("2025-07-01"),
+    endDate: new Date("2025-10-01"),
+    companyLogoImg: "/projects/portfolio/post-it-logo.png",
+    pagesInfoArr: [
+      {
+        title: "Notes en un coup d'œil",
+        description:
+          "Tableau de bord interactif offrant un aperçu des notes et des actions rapides.",
+        imgArr: ["/projects/portfolio/add_post-it.png"],
+      },
+      {
+        title: "Édition et organisation",
+        description:
+          "Création, modification et suppression de notes avec synchronisation instantanée.",
+        imgArr: ["/projects/portfolio/cart_post-it.png"],
+      },
+    ],
+    descriptionDetails: {
+      paragraphs: [
+        "Application web de gestion de notes interactive, conçue pour suivre les idées et actions en temps réel.",
+        "La plateforme permet aux utilisateurs de créer, modifier et supprimer des notes facilement, avec une interface réactive et intuitive.",
+      ],
+      bullets: [
+        "Création, modification et suppression de notes en temps réel.",
+        "Interface claire avec regroupement et recherche rapide des notes.",
+        "Fonctionnalités interactives pour améliorer la productivité et l'organisation.",
+      ],
+    },
+  },
+  {
     id: "rotten-tomatoes",
     companyName: "Rotten Tomatoes",
     type: "Personal",
@@ -105,12 +144,12 @@ export const Projects: ProjectInterface[] = [
     techStack: ["Nest.js", "Typescript", "Next.js", "CSS 3"],
     startDate: new Date("2024-09-01"),
     endDate: new Date("2025-01-01"),
-    companyLogoImg: "/projects/portfolio/Rotten_tomatoes.png",
+    companyLogoImg: "/projects/portfolio/rotten_logo.png",
     pagesInfoArr: [
       {
         title: "Catalogue films",
         description: "Recherche, filtres et fiches détaillées utilisant l'API TMDB.",
-        imgArr: ["/projects/portfolio/catalogue.png"],
+        imgArr: ["/projects/portfolio/Rotten_tomatoes.png"],
       },
     ],
     descriptionDetails: {
