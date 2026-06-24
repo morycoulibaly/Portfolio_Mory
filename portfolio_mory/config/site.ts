@@ -4,15 +4,15 @@ export const siteConfig = {
   username: "morycoulibaly",
   description:
     "Portfolio de Mory Coulibaly, developpeur Fullstack Junior base a Abidjan, Cote d'Ivoire. Specialise en React, Vue.js, TypeScript, Laravel, NestJS, Flask, MySQL et applications web modernes.",
-  url: "https://morycoulibaly.dev",
+  url: "https://portfolio-mory-jade.vercel.app",
   links: {
     twitter: "https://x.com/morycoulibaly",
     github: "https://github.com/morycoulibaly",
     templateRepo: "https://github.com/morycoulibaly/portfolio",
   },
-  ogImage: "https://morycoulibaly.dev/og-image.png",
+  ogImage: "https://portfolio-mory-jade.vercel.app/og-image.png",
   iconIco: "/favicon.ico",
-  logoIcon: "/logo.png",
+  logoIcon: "/profile-img.jpg",
   keywords: [
     "Mory Coulibaly",
     "Developpeur Fullstack Junior",

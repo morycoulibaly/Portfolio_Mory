@@ -40,17 +40,17 @@ export const Projects: ProjectInterface[] = [
     techStack: ["Next.js", "Nest.js", "Typescript", "Tailwind CSS"],
     startDate: new Date("2024-06-01"),
     endDate: new Date("2024-12-01"),
-    companyLogoImg: "/projects/yowl/logo.png",
+    companyLogoImg: "/projects/portfolio/YOWL.png",
     pagesInfoArr: [
       {
         title: "Présentation",
         description: "Page d'accueil du projet avec capture d'écrans et résumé rapide.",
-        imgArr: ["/projects/yowl/home.png"],
+        imgArr: ["/projects/portfolio/YOWL.png"],
       },
       {
         title: "Flux et profils",
         description: "Exemples fictifs de publications, profils utilisateurs et interactions.",
-        imgArr: ["/projects/yowl/feed.png"],
+        imgArr: ["/projects/portfolio/YOWL.png"],
       },
     ],
     descriptionDetails: {
@@ -77,12 +77,12 @@ export const Projects: ProjectInterface[] = [
     techStack: ["Nest.js", "Typescript", "Next.js", "CSS 3"],
     startDate: new Date("2025-03-01"),
     endDate: new Date("2025-06-01"),
-    companyLogoImg: "/projects/showtime/logo.png",
+    companyLogoImg: "/projects/portfolio/showtime.png",
     pagesInfoArr: [
       {
         title: "Recherche et réservation",
         description: "Pages de listing d'événements, sélection de places et paiement (exemple fictif).",
-        imgArr: ["/projects/showtime/events.png"],
+        imgArr: ["/projects/portfolio/showtime.png"],
       },
     ],
     descriptionDetails: {
@@ -108,12 +108,12 @@ export const Projects: ProjectInterface[] = [
     techStack: ["Nest.js", "Typescript", "Next.js", "CSS 3"],
     startDate: new Date("2024-09-01"),
     endDate: new Date("2025-01-01"),
-    companyLogoImg: "/projects/rotten-tomatoes/logo.png",
+    companyLogoImg: "/projects/portfolio/Rotten_tomatoes.png",
     pagesInfoArr: [
       {
         title: "Catalogue films",
         description: "Recherche, filtres et fiches détaillées utilisant l'API TMDB.",
-        imgArr: ["/projects/rotten-tomatoes/list.png"],
+        imgArr: ["/projects/portfolio/catalogue.png"],
       },
     ],
     descriptionDetails: {
@@ -138,13 +138,13 @@ export const Projects: ProjectInterface[] = [
     techStack: ["React", "Nest.js", "CSS 3"],
     startDate: new Date("2026-01-01"),
     endDate: new Date("2026-02-01"),
-    companyLogoImg: "/projects/dashboard/logo.png",
+    companyLogoImg: "/projects/portfolio/dashboard.png",
     pagesInfoArr: [
       {
         title: "Accueil et présentation",
         description:
           "Page d'aperçu du dashboard avec KPI et graphiques (contenu fictif).",
-        imgArr: ["/projects/dashboard/overview.png"],
+        imgArr: ["/projects/portfolio/dashboard.png"],
       },
     ],
     descriptionDetails: {
