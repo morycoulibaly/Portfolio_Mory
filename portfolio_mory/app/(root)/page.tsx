@@ -161,6 +161,27 @@ export default function IndexPage() {
       </section>
       <AnimatedSection
         direction="up"
+        className="container space-y-6 py-10 my-14"
+        id="about"
+      >
+        <div className="mx-auto flex max-w-[58rem] flex-col items-center space-y-4 text-center">
+          <AnimatedText
+            as="h2"
+            className="font-heading text-3xl leading-[1.1] sm:text-3xl md:text-6xl"
+          >
+            A Propos
+          </AnimatedText>
+          <AnimatedText
+            as="p"
+            delay={0.2}
+            className="max-w-[85%] leading-normal text-muted-foreground sm:text-lg sm:leading-7"
+          >
+            Développeur Full-Stack passionné, je conçois et développe des applications web complètes, de l'interface utilisateur jusqu'à la logique métier et la gestion des données. J'accorde une attention particulière à la performance, à l'expérience utilisateur et à la qualité du code afin de créer des solutions fiables, évolutives et intuitives.
+          </AnimatedText>
+        </div>
+      </AnimatedSection>
+      <AnimatedSection
+        direction="up"
         className="container space-y-6 bg-muted py-10 my-14"
         id="projects"
       >
