@@ -11,7 +11,7 @@ export const siteConfig = {
     templateRepo: "https://github.com/morycoulibaly/portfolio",
   },
   ogImage: "https://portfolio-mory-jade.vercel.app/og-image.png",
-  iconIco: "/favicon.ico",
+  iconIco: "/profile-img.jpg",
   logoIcon: "/profile-img.jpg",
   keywords: [
     "Mory Coulibaly",

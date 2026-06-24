@@ -100,7 +100,11 @@ export default function RootLayout({ children }: RootLayoutProps) {
 
   return (
     <html lang="fr" suppressHydrationWarning>
-      <head />
+      <head>
+        <link rel="icon" href="/profile-img.jpg" />
+        <link rel="shortcut icon" href="/profile-img.jpg" />
+        <link rel="apple-touch-icon" href="/profile-img.jpg" />
+      </head>
       <body
         className={cn(
           "min-h-screen bg-background font-sans antialiased",
