@@ -43,25 +43,24 @@ export const Projects: ProjectInterface[] = [
     companyLogoImg: "/projects/portfolio/YOWL.png",
     pagesInfoArr: [
       {
-        title: "Présentation",
+        title: "YOWL - Accueil",
         description: "Page d'accueil du projet avec capture d'écrans et résumé rapide.",
         imgArr: ["/projects/portfolio/YOWL.png"],
       },
       {
-        title: "Flux et profils",
+        title: "YOWL",
         description: "Exemples fictifs de publications, profils utilisateurs et interactions.",
         imgArr: ["/projects/portfolio/YOWL.png"],
       },
     ],
     descriptionDetails: {
       paragraphs: [
-        "Texte factice : détails du projet YOWL à remplacer par l'auteur.",
+        "Réseau social Full-Stack permettant les interactions entre utilisateurs via une architecture MVC moderne.",
         "Texte factice : fonctionnalités, objectifs et défis techniques seront décrits ici.",
       ],
       bullets: [
-        "Point fictif : Authentification, profils, relations et notifications.",
-        "Point fictif : Intégration d'API tierces pour enrichir le contenu.",
-        "Point fictif : Mise en place d'un système de modération basique.",
+        "Authentification, profils, relations.",
+        "Intégration d'API pour enrichir les interactions et le contenu.",
       ],
     },
   },
@@ -87,12 +86,11 @@ export const Projects: ProjectInterface[] = [
     ],
     descriptionDetails: {
       paragraphs: [
-        "Texte factice : description du workflow de réservation à éditer.",
-        "Texte factice : architecture backend, webhooks et gestion des transactions à préciser.",
+        "Workflow de réservation à éditer.",
+        "Gestion des événements, inventaire de billets et intégration de paiement à détailler.",
       ],
       bullets: [
-        "Point fictif : gestion des sessions et des inventaires de billets.",
-        "Point fictif : intégration de passerelles de paiement (placeholder).",
+        "Gestion des sessions et des inventaires de billets.",
       ],
     },
   },
@@ -118,12 +116,12 @@ export const Projects: ProjectInterface[] = [
     ],
     descriptionDetails: {
       paragraphs: [
-        "Texte factice : objectifs du projet Rotten Tomatoes à compléter.",
-        "Texte factice : flux d'authentification, caching et gestion des quotas API à détailler.",
+        "Interface utilisateur pour la découverte de films avec intégration de l'API TMDB.",
+        "Flux d'authentification, caching et gestion des quotas API",
       ],
       bullets: [
-        "Point fictif : intégration TMDB et mapping des données.",
-        "Point fictif : système d'avis et notation utilisateur sécurisée.",
+        "Intégration TMDB et mapping des données.",
+        "Système d'avis et notation utilisateur sécurisée.",
       ],
     },
   },
@@ -149,12 +147,12 @@ export const Projects: ProjectInterface[] = [
     ],
     descriptionDetails: {
       paragraphs: [
-        "Texte factice : résumé du dashboard à modifier par l'auteur.",
-        "Texte factice : sources de données, widgets et configurations seront ajoutés.",
+        "Résumé du dashboard ",
+        "Sources de données, widgets et configurations seront ajoutés.",
       ],
       bullets: [
-        "Point fictif : intégration de graphiques et tableaux de bord interactifs.",
-        "Point fictif : filtres, export CSV et authentification.",
+        "Intégration de graphiques et tableaux de bord interactifs.",
+        "Filtres et authentification.",
       ],
     },
   },
