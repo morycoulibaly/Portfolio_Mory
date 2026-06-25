@@ -161,7 +161,7 @@ export default function IndexPage() {
       </section>
       <AnimatedSection
         direction="up"
-        className="container space-y-6 py-10 my-14"
+        className="container space-y-6 bg-muted py-10 my-14"
         id="about"
       >
         <div className="mx-auto flex max-w-[58rem] flex-col items-center space-y-4 text-center">
@@ -179,6 +179,13 @@ export default function IndexPage() {
             Développeur Full-Stack passionné, je conçois et développe des applications web complètes, de l'interface utilisateur jusqu'à la logique métier et la gestion des données. J'accorde une attention particulière à la performance, à l'expérience utilisateur et à la qualité du code afin de créer des solutions fiables, évolutives et intuitives.
           </AnimatedText>
         </div>
+        <AnimatedText delay={0.4} className="flex justify-center">
+          <Link href="/about">
+            <Button variant={"outline"} className="rounded-xl">
+              <Icons.chevronDown className="mr-2 h-4 w-4" /> En savoir plus
+            </Button>
+          </Link>
+        </AnimatedText>
       </AnimatedSection>
       <AnimatedSection
         direction="up"

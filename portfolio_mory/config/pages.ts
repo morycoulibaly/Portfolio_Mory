@@ -22,6 +22,16 @@ export const pagesConfig: PagesConfig = {
         "Portfolio de Mory Coulibaly, developpeur Fullstack Junior a Abidjan, specialise en React, Vue.js, Laravel, NestJS, Flask et MySQL.",
     },
   },
+  about: {
+    title: "A Propos",
+    description:
+      "Mon parcours, mes formations et ma vision en tant que developpeur Fullstack.",
+    metadata: {
+      title: "A Propos",
+      description:
+        "Decouvrez le parcours de Mory Coulibaly, developpeur Fullstack Junior passionne par le web, les meilleures pratiques et les solutions performantes.",
+    },
+  },
   skills: {
     title: "Competences",
     description:
